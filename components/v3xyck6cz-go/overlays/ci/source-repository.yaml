@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v3xyck6cz-go-repository
+spec:
+  url: https://github.com/sjm-rhtap/v3xyck6cz-go
